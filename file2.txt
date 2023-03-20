@@ -1,0 +1,3 @@
+this is the file2.txt
+this si sthe sencnd line
+this i sthe tired line of the file2.txt 
