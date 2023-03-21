@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1679286373,,"wq!"
+|2,0,1679368553,,"wq!"
 :q!
 |2,0,1679243151,,"q!"
 
@@ -27,34 +27,70 @@
 # Registers:
 
 # File marks:
-'0  1  18  ~/sample.txt
-|4,48,1,18,1679286373,"~/sample.txt"
-'1  2  13  ~/printname.sh
-|4,49,2,13,1679249785,"~/printname.sh"
-'2  1  0  ~/file1.txt
-|4,50,1,0,1679249568,"~/file1.txt"
-'3  3  38  ~/hardfile2.tx
-|4,51,3,38,1679249472,"~/hardfile2.tx"
-'4  2  24  ~/file2.txt
-|4,52,2,24,1679249416,"~/file2.txt"
-'5  3  22  ~/softfile1.txt
-|4,53,3,22,1679249351,"~/softfile1.txt"
-'6  2  15  ~/file1.txt
-|4,54,2,15,1679249280,"~/file1.txt"
-'7  2  15  ~/file1.txt
-|4,55,2,15,1679249280,"~/file1.txt"
-'8  1  20  ~/file2.txt
-|4,56,1,20,1679249180,"~/file2.txt"
-'9  1  20  ~/file2.txt
-|4,57,1,20,1679249180,"~/file2.txt"
+'0  1  26  ~/govi/induvadhana.txt
+|4,48,1,26,1679368553,"~/govi/induvadhana.txt"
+'1  1  18  ~/govi/sample.txt
+|4,49,1,18,1679368290,"~/govi/sample.txt"
+'2  1  18  ~/sample.txt
+|4,50,1,18,1679286373,"~/sample.txt"
+'3  2  13  ~/printname.sh
+|4,51,2,13,1679249785,"~/printname.sh"
+'4  1  0  ~/file1.txt
+|4,52,1,0,1679249568,"~/file1.txt"
+'5  3  38  ~/hardfile2.tx
+|4,53,3,38,1679249472,"~/hardfile2.tx"
+'6  2  24  ~/file2.txt
+|4,54,2,24,1679249416,"~/file2.txt"
+'7  3  22  ~/softfile1.txt
+|4,55,3,22,1679249351,"~/softfile1.txt"
+'8  2  15  ~/file1.txt
+|4,56,2,15,1679249280,"~/file1.txt"
+'9  2  15  ~/file1.txt
+|4,57,2,15,1679249280,"~/file1.txt"
 
 # Jumplist (newest first):
+-'  1  26  ~/govi/induvadhana.txt
+|4,39,1,26,1679368553,"~/govi/induvadhana.txt"
+-'  1  18  ~/govi/sample.txt
+|4,39,1,18,1679368290,"~/govi/sample.txt"
+-'  1  18  ~/govi/sample.txt
+|4,39,1,18,1679368290,"~/govi/sample.txt"
+-'  1  18  ~/sample.txt
+|4,39,1,18,1679286373,"~/sample.txt"
+-'  1  18  ~/sample.txt
+|4,39,1,18,1679286373,"~/sample.txt"
+-'  1  18  ~/sample.txt
+|4,39,1,18,1679286373,"~/sample.txt"
 -'  1  18  ~/sample.txt
 |4,39,1,18,1679286373,"~/sample.txt"
 -'  2  13  ~/printname.sh
 |4,39,2,13,1679249785,"~/printname.sh"
 -'  2  13  ~/printname.sh
 |4,39,2,13,1679249785,"~/printname.sh"
+-'  2  13  ~/printname.sh
+|4,39,2,13,1679249785,"~/printname.sh"
+-'  2  13  ~/printname.sh
+|4,39,2,13,1679249785,"~/printname.sh"
+-'  2  13  ~/printname.sh
+|4,39,2,13,1679249785,"~/printname.sh"
+-'  2  13  ~/printname.sh
+|4,39,2,13,1679249785,"~/printname.sh"
+-'  2  13  ~/printname.sh
+|4,39,2,13,1679249785,"~/printname.sh"
+-'  2  13  ~/printname.sh
+|4,39,2,13,1679249785,"~/printname.sh"
+-'  1  0  ~/printname.sh
+|4,39,1,0,1679249734,"~/printname.sh"
+-'  1  0  ~/printname.sh
+|4,39,1,0,1679249734,"~/printname.sh"
+-'  1  0  ~/printname.sh
+|4,39,1,0,1679249734,"~/printname.sh"
+-'  1  0  ~/printname.sh
+|4,39,1,0,1679249734,"~/printname.sh"
+-'  1  0  ~/printname.sh
+|4,39,1,0,1679249734,"~/printname.sh"
+-'  1  0  ~/printname.sh
+|4,39,1,0,1679249734,"~/printname.sh"
 -'  1  0  ~/printname.sh
 |4,39,1,0,1679249734,"~/printname.sh"
 -'  1  0  ~/printname.sh
@@ -67,6 +103,78 @@
 |4,39,1,0,1679249568,"~/file1.txt"
 -'  1  0  ~/file1.txt
 |4,39,1,0,1679249568,"~/file1.txt"
+-'  1  0  ~/file1.txt
+|4,39,1,0,1679249568,"~/file1.txt"
+-'  1  0  ~/file1.txt
+|4,39,1,0,1679249568,"~/file1.txt"
+-'  1  0  ~/file1.txt
+|4,39,1,0,1679249568,"~/file1.txt"
+-'  1  0  ~/file1.txt
+|4,39,1,0,1679249568,"~/file1.txt"
+-'  1  0  ~/file1.txt
+|4,39,1,0,1679249568,"~/file1.txt"
+-'  1  0  ~/file1.txt
+|4,39,1,0,1679249568,"~/file1.txt"
+-'  1  0  ~/file1.txt
+|4,39,1,0,1679249568,"~/file1.txt"
+-'  1  0  ~/file1.txt
+|4,39,1,0,1679249568,"~/file1.txt"
+-'  1  0  ~/file1.txt
+|4,39,1,0,1679249568,"~/file1.txt"
+-'  1  0  ~/file1.txt
+|4,39,1,0,1679249568,"~/file1.txt"
+-'  1  0  ~/file1.txt
+|4,39,1,0,1679249568,"~/file1.txt"
+-'  1  0  ~/file1.txt
+|4,39,1,0,1679249568,"~/file1.txt"
+-'  3  38  ~/hardfile2.tx
+|4,39,3,38,1679249472,"~/hardfile2.tx"
+-'  3  38  ~/hardfile2.tx
+|4,39,3,38,1679249472,"~/hardfile2.tx"
+-'  3  38  ~/hardfile2.tx
+|4,39,3,38,1679249472,"~/hardfile2.tx"
+-'  3  38  ~/hardfile2.tx
+|4,39,3,38,1679249472,"~/hardfile2.tx"
+-'  3  38  ~/hardfile2.tx
+|4,39,3,38,1679249472,"~/hardfile2.tx"
+-'  3  38  ~/hardfile2.tx
+|4,39,3,38,1679249472,"~/hardfile2.tx"
+-'  3  38  ~/hardfile2.tx
+|4,39,3,38,1679249472,"~/hardfile2.tx"
+-'  3  38  ~/hardfile2.tx
+|4,39,3,38,1679249472,"~/hardfile2.tx"
+-'  3  38  ~/hardfile2.tx
+|4,39,3,38,1679249472,"~/hardfile2.tx"
+-'  3  38  ~/hardfile2.tx
+|4,39,3,38,1679249472,"~/hardfile2.tx"
+-'  3  38  ~/hardfile2.tx
+|4,39,3,38,1679249472,"~/hardfile2.tx"
+-'  3  38  ~/hardfile2.tx
+|4,39,3,38,1679249472,"~/hardfile2.tx"
+-'  3  38  ~/hardfile2.tx
+|4,39,3,38,1679249472,"~/hardfile2.tx"
+-'  3  38  ~/hardfile2.tx
+|4,39,3,38,1679249472,"~/hardfile2.tx"
+-'  3  38  ~/hardfile2.tx
+|4,39,3,38,1679249472,"~/hardfile2.tx"
+-'  3  38  ~/hardfile2.tx
+|4,39,3,38,1679249472,"~/hardfile2.tx"
+-'  3  38  ~/hardfile2.tx
+|4,39,3,38,1679249472,"~/hardfile2.tx"
+-'  3  38  ~/hardfile2.tx
+|4,39,3,38,1679249472,"~/hardfile2.tx"
+-'  3  38  ~/hardfile2.tx
+|4,39,3,38,1679249472,"~/hardfile2.tx"
+-'  3  38  ~/hardfile2.tx
+|4,39,3,38,1679249472,"~/hardfile2.tx"
+-'  3  38  ~/hardfile2.tx
+|4,39,3,38,1679249472,"~/hardfile2.tx"
+-'  3  38  ~/hardfile2.tx
+|4,39,3,38,1679249472,"~/hardfile2.tx"
+-'  3  38  ~/hardfile2.tx
+|4,39,3,38,1679249472,"~/hardfile2.tx"
+-'  3  38  ~/hardfile2.tx
+|4,39,3,38,1679249472,"~/hardfile2.tx"
 -'  3  38  ~/hardfile2.tx
 |4,39,3,38,1679249472,"~/hardfile2.tx"
 -'  3  38  ~/hardfile2.tx
@@ -115,142 +223,48 @@
 |4,39,2,0,1679249442,"~/hardfile2.tx"
 -'  1  0  ~/hardfile2.tx
 |4,39,1,0,1679249442,"~/hardfile2.tx"
--'  2  24  ~/file2.txt
-|4,39,2,24,1679249416,"~/file2.txt"
--'  2  24  ~/file2.txt
-|4,39,2,24,1679249416,"~/file2.txt"
--'  2  24  ~/file2.txt
-|4,39,2,24,1679249416,"~/file2.txt"
--'  2  24  ~/file2.txt
-|4,39,2,24,1679249416,"~/file2.txt"
--'  2  24  ~/file2.txt
-|4,39,2,24,1679249416,"~/file2.txt"
--'  2  24  ~/file2.txt
-|4,39,2,24,1679249416,"~/file2.txt"
--'  2  24  ~/file2.txt
-|4,39,2,24,1679249416,"~/file2.txt"
--'  2  24  ~/file2.txt
-|4,39,2,24,1679249416,"~/file2.txt"
--'  2  24  ~/file2.txt
-|4,39,2,24,1679249416,"~/file2.txt"
--'  2  24  ~/file2.txt
-|4,39,2,24,1679249416,"~/file2.txt"
--'  2  24  ~/file2.txt
-|4,39,2,24,1679249416,"~/file2.txt"
--'  2  24  ~/file2.txt
-|4,39,2,24,1679249416,"~/file2.txt"
--'  2  24  ~/file2.txt
-|4,39,2,24,1679249416,"~/file2.txt"
--'  2  24  ~/file2.txt
-|4,39,2,24,1679249416,"~/file2.txt"
--'  2  24  ~/file2.txt
-|4,39,2,24,1679249416,"~/file2.txt"
--'  2  24  ~/file2.txt
-|4,39,2,24,1679249416,"~/file2.txt"
--'  1  20  ~/file2.txt
-|4,39,1,20,1679249387,"~/file2.txt"
--'  1  20  ~/file2.txt
-|4,39,1,20,1679249387,"~/file2.txt"
--'  1  20  ~/file2.txt
-|4,39,1,20,1679249387,"~/file2.txt"
--'  1  20  ~/file2.txt
-|4,39,1,20,1679249387,"~/file2.txt"
--'  1  20  ~/file2.txt
-|4,39,1,20,1679249387,"~/file2.txt"
--'  1  20  ~/file2.txt
-|4,39,1,20,1679249387,"~/file2.txt"
--'  1  20  ~/file2.txt
-|4,39,1,20,1679249387,"~/file2.txt"
--'  1  20  ~/file2.txt
-|4,39,1,20,1679249387,"~/file2.txt"
--'  1  20  ~/file2.txt
-|4,39,1,20,1679249387,"~/file2.txt"
--'  1  20  ~/file2.txt
-|4,39,1,20,1679249387,"~/file2.txt"
--'  1  20  ~/file2.txt
-|4,39,1,20,1679249387,"~/file2.txt"
--'  1  20  ~/file2.txt
-|4,39,1,20,1679249387,"~/file2.txt"
--'  1  20  ~/file2.txt
-|4,39,1,20,1679249387,"~/file2.txt"
--'  1  20  ~/file2.txt
-|4,39,1,20,1679249387,"~/file2.txt"
--'  1  20  ~/file2.txt
-|4,39,1,20,1679249387,"~/file2.txt"
--'  1  20  ~/file2.txt
-|4,39,1,20,1679249387,"~/file2.txt"
--'  3  22  ~/softfile1.txt
-|4,39,3,22,1679249351,"~/softfile1.txt"
--'  3  22  ~/softfile1.txt
-|4,39,3,22,1679249351,"~/softfile1.txt"
--'  3  22  ~/softfile1.txt
-|4,39,3,22,1679249351,"~/softfile1.txt"
--'  3  22  ~/softfile1.txt
-|4,39,3,22,1679249351,"~/softfile1.txt"
--'  3  22  ~/softfile1.txt
-|4,39,3,22,1679249351,"~/softfile1.txt"
--'  3  22  ~/softfile1.txt
-|4,39,3,22,1679249351,"~/softfile1.txt"
--'  3  22  ~/softfile1.txt
-|4,39,3,22,1679249351,"~/softfile1.txt"
--'  3  22  ~/softfile1.txt
-|4,39,3,22,1679249351,"~/softfile1.txt"
--'  3  22  ~/softfile1.txt
-|4,39,3,22,1679249351,"~/softfile1.txt"
--'  3  22  ~/softfile1.txt
-|4,39,3,22,1679249351,"~/softfile1.txt"
--'  3  22  ~/softfile1.txt
-|4,39,3,22,1679249351,"~/softfile1.txt"
--'  3  22  ~/softfile1.txt
-|4,39,3,22,1679249351,"~/softfile1.txt"
--'  3  22  ~/softfile1.txt
-|4,39,3,22,1679249351,"~/softfile1.txt"
--'  3  22  ~/softfile1.txt
-|4,39,3,22,1679249351,"~/softfile1.txt"
--'  3  22  ~/softfile1.txt
-|4,39,3,22,1679249351,"~/softfile1.txt"
--'  3  22  ~/softfile1.txt
-|4,39,3,22,1679249351,"~/softfile1.txt"
--'  3  22  ~/softfile1.txt
-|4,39,3,22,1679249351,"~/softfile1.txt"
--'  3  22  ~/softfile1.txt
-|4,39,3,22,1679249351,"~/softfile1.txt"
--'  3  22  ~/softfile1.txt
-|4,39,3,22,1679249351,"~/softfile1.txt"
--'  3  22  ~/softfile1.txt
-|4,39,3,22,1679249351,"~/softfile1.txt"
--'  3  22  ~/softfile1.txt
-|4,39,3,22,1679249351,"~/softfile1.txt"
--'  3  22  ~/softfile1.txt
-|4,39,3,22,1679249351,"~/softfile1.txt"
--'  3  22  ~/softfile1.txt
-|4,39,3,22,1679249351,"~/softfile1.txt"
--'  3  22  ~/softfile1.txt
-|4,39,3,22,1679249351,"~/softfile1.txt"
--'  3  22  ~/softfile1.txt
-|4,39,3,22,1679249351,"~/softfile1.txt"
--'  3  22  ~/softfile1.txt
-|4,39,3,22,1679249351,"~/softfile1.txt"
--'  3  22  ~/softfile1.txt
-|4,39,3,22,1679249351,"~/softfile1.txt"
--'  3  22  ~/softfile1.txt
-|4,39,3,22,1679249351,"~/softfile1.txt"
--'  3  22  ~/softfile1.txt
-|4,39,3,22,1679249351,"~/softfile1.txt"
--'  3  22  ~/softfile1.txt
-|4,39,3,22,1679249351,"~/softfile1.txt"
--'  3  22  ~/softfile1.txt
-|4,39,3,22,1679249351,"~/softfile1.txt"
--'  3  22  ~/softfile1.txt
-|4,39,3,22,1679249351,"~/softfile1.txt"
--'  2  0  ~/softfile1.txt
-|4,39,2,0,1679249332,"~/softfile1.txt"
--'  1  0  ~/softfile1.txt
-|4,39,1,0,1679249332,"~/softfile1.txt"
--'  2  0  ~/softfile1.txt
-|4,39,2,0,1679249332,"~/softfile1.txt"
+-'  2  0  ~/hardfile2.tx
+|4,39,2,0,1679249442,"~/hardfile2.tx"
+-'  1  0  ~/hardfile2.tx
+|4,39,1,0,1679249442,"~/hardfile2.tx"
+-'  2  0  ~/hardfile2.tx
+|4,39,2,0,1679249442,"~/hardfile2.tx"
+-'  1  0  ~/hardfile2.tx
+|4,39,1,0,1679249442,"~/hardfile2.tx"
+-'  2  0  ~/hardfile2.tx
+|4,39,2,0,1679249442,"~/hardfile2.tx"
+-'  1  0  ~/hardfile2.tx
+|4,39,1,0,1679249442,"~/hardfile2.tx"
+-'  2  0  ~/hardfile2.tx
+|4,39,2,0,1679249442,"~/hardfile2.tx"
+-'  1  0  ~/hardfile2.tx
+|4,39,1,0,1679249442,"~/hardfile2.tx"
+-'  2  0  ~/hardfile2.tx
+|4,39,2,0,1679249442,"~/hardfile2.tx"
+-'  1  0  ~/hardfile2.tx
+|4,39,1,0,1679249442,"~/hardfile2.tx"
+-'  2  0  ~/hardfile2.tx
+|4,39,2,0,1679249442,"~/hardfile2.tx"
+-'  1  0  ~/hardfile2.tx
+|4,39,1,0,1679249442,"~/hardfile2.tx"
+-'  2  0  ~/hardfile2.tx
+|4,39,2,0,1679249442,"~/hardfile2.tx"
 
 # History of marks within files (newest to oldest):
+
+> ~/govi/induvadhana.txt
+	*	1679368551	0
+	"	1	26
+	^	1	27
+	.	1	26
+	+	1	26
+
+> ~/govi/sample.txt
+	*	1679368288	0
+	"	1	18
+	^	1	19
+	.	1	18
+	+	1	18
 
 > ~/sample.txt
 	*	1679286371	0

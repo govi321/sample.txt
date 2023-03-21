@@ -248,3 +248,28 @@ ls -lrth | grep printname.sh
 ./printname.sh 
 JnbsA
 jnbSA
+git remote -v
+git push origin master
+git remote -v
+git push origin master
+vi sample.txt
+git init
+git -version
+yum install git
+git -version
+git --version
+git init
+git remote -v
+ls -lrt-a
+ls -lrta
+git add .
+git commit -m "added one line " -a
+git push origin master
+git remote add origin "https://github.com/govi321/sample.txt.git"
+git remote -v
+git push origin master
+git clone sample.txt
+git push origin master
+git remote add origin https://github.com/govi321/sample.txt.git
+git push -u origin main
+git push origin master
